@@ -1,7 +1,7 @@
 # ¡Hola! Soy José Miguel Romanos Mora 👋
 
 ### Ingeniero en Sistemas Computacionales | Hardware & Software Specialist
-Ingeniero con un perfil integral que combina la sólida base del **Hardware** con la especialización en **Software**. Enfocado en crear soluciones tecnológicas eficientes, desde la infraestructura física hasta el desarrollo de aplicaciones y la implementación de IA.
+Ingeniero con un perfil integral que combina la sólida base del Hardware con la especialización en Software. Enfocado en crear soluciones tecnológicas eficientes, desde la infraestructura física hasta el desarrollo de aplicaciones y la implementación de IA.
 
 ---
 
@@ -37,5 +37,4 @@ Ingeniero con un perfil integral que combina la sólida base del **Hardware** co
 ---
 
 ## 📫 Conecta conmigo:
-- **LinkedIn:** [Tu enlace aquí]
 - **Email:** romanos.mora@outlook.com
